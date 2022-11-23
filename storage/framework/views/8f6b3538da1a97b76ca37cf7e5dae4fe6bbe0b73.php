@@ -1,0 +1,1 @@
+<div class="flash-data" data-flash="<?php echo e((session()->has('session') ? session()->get('session') : '')); ?>"></div><?php /**PATH E:\skripsi\app\pengawasan\resources\views/sess/flash.blade.php ENDPATH**/ ?>

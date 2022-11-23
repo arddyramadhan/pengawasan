@@ -1,0 +1,1 @@
+<div class="flash-data" data-flash="{{(session()->has('session') ? session()->get('session') : '')}}"></div>
